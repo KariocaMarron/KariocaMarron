@@ -1,94 +1,44 @@
-# Hi, I'm Jose 👋
+# Jose Vasconcelos
 
-## 🔐 Cyber Security Management Student | Digital Forensics & Financial Security Enthusiast
+Cyber Security Management graduate (BSc Hons, 2:1, Solent University, 2026) based in Southampton, UK.
+Interested in security operations, digital forensics and incident response, and cyber threat intelligence,
+particularly in financial services.
 
-I am a BSc (Hons) Cyber Security Management student with a strong interest in **Digital Forensics, Financial Cybercrime, and Security Engineering**.
+## Projects
 
-My focus is on understanding how cyber incidents occur, how financial systems are targeted, and how forensic evidence can be used to detect, investigate, and prevent attacks.
+- **[PYU-OpenNMS-VPE-Control-Architecture](https://github.com/KariocaMarron/PYU-OpenNMS-VPE-Control-Architecture)**
+  Distributed OpenNMS Horizon monitoring across multiple sites, using Minions, Apache Kafka, PostgreSQL and Docker.
+  Role: OpenNMS Monitoring Lead.
+- **[opennms-pyu-monitoring](https://github.com/KariocaMarron/opennms-pyu-monitoring)**
+  OpenNMS monitoring configuration and scripts for the same environment.
+- **MARR (Cisco-sponsored university project)**
+  Automated network alert monitoring and response across three simulated sites.
+  Role: Scrum Master and Documentation Lead.
+- **Digital forensics casework**
+  Disk image examination with FTK Imager and Autopsy, memory and timeline analysis with Volatility 3,
+  chain-of-custody documentation and a forensic report on a simulated financial fraud case.
 
----
+## Dissertation
 
-## 🎯 Current Focus Areas
+*Emerging Cyber Threats to Financial Institutions: Evaluating Threat Intelligence Models for Improving
+Digital Forensic Readiness in Banking Systems.*
+Evaluates MITRE ATT&CK, the Cyber Kill Chain, the Diamond Model, D4I and STIX/TAXII against
+financial-sector case studies.
 
-- 🧾 Digital Forensics & Incident Investigation (DFIR)
-- 💰 Financial Cybersecurity & Fraud Analysis (Dissertation Focus)
-- 🛡️ Threat Detection & Security Monitoring
-- 🌐 Network Security & Traffic Analysis
-- ⚙️ Security Automation & Scripting (Python / PowerShell)
+## Skills and tools
 
----
+- **Security operations:** alert triage, log analysis, MITRE ATT&CK, threat intelligence fundamentals
+- **Forensics:** FTK Imager, Autopsy, Volatility 3, evidence handling, chain of custody
+- **Networks and monitoring:** OpenNMS, Grafana, Wireshark, Nmap, Snort, Cisco routing and switching
+- **Platforms and scripting:** Linux (Ubuntu, Kali), Windows, Docker, Python, Bash, SQL, Git
 
-## 🔬 Projects & Work (In Progress)
+## Currently learning
 
-- 🧠 AI-assisted Threat Detection System (NLP-based log analysis)
-- 🧾 Digital Forensics Investigation Lab (Windows + Linux artifacts)
-- 💳 Financial Fraud Detection Research (academic dissertation work)
-- 🖥️ Security Monitoring Dashboard (real-time system visibility)
-- 📡 Network Traffic Analysis Toolkit (packet inspection & anomaly detection)
+SIEM platforms (Splunk, Elastic), threat hunting, and cloud security fundamentals (AWS, Azure).
 
----
+## Contact
 
-## 💻 Technical Stack
-
-**Languages & Scripting**
-- Python (Security automation, data analysis)
-- PowerShell (Windows security & system analysis)
-- Bash (Linux environments)
-
-**Security & Forensics Tools**
-- Wireshark
-- Volatility Framework
-- Autopsy
-- Sysinternals Suite
-- SIEM concepts (Splunk / ELK – learning)
-
-**Infrastructure**
-- Linux (Ubuntu, Kali)
-- Windows Server environments
-- Virtualisation (VMware / VirtualBox)
-- Docker (containerised labs)
-
----
-
-## 📊 Cybersecurity Interests
-
-- Digital Forensics & Evidence Analysis
-- Financial Crime & Fraud Detection Systems
-- Threat Intelligence & OSINT
-- SOC Operations & Monitoring
-- Malware Behaviour Analysis (beginner → intermediate)
-- Risk Management & Governance (GRC)
-
----
-
-## 🧩 Research Interest (Dissertation)
-
-> Focus: **Financial Cybercrime Detection using Data Analytics & Behavioural Indicators**
-
-Exploring how digital forensic methods and machine learning can improve detection of:
-- Transaction anomalies
-- Insider financial threats
-- Fraudulent access patterns
-- Compromised financial accounts
-
----
-
-## 🚀 Learning Path
-
-- Advanced Python for security tooling  
-- Threat hunting methodologies  
-- DFIR workflows and evidence handling  
-- SIEM engineering fundamentals  
-- Cloud security (AWS / Azure basics)
-
----
-
-## 📫 Contact
-
-- GitHub: @KariocaMarron  
-- Open to collaboration on cybersecurity and forensic projects  
-
----
+LinkedIn: [linkedin.com/in/jcbvasconcelos](https://www.linkedin.com/in/jcbvasconcelos)
 
 ## ⚡ Mindset
 
