@@ -42,7 +42,7 @@ LinkedIn: [linkedin.com/in/jcbvasconcelos](https://www.linkedin.com/in/jcbvascon
 
 ## ⚡ Mindset
 
-> “Security is not a product — it is a process of understanding behaviour, systems, and evidence.”
+> “Security is not a product - it is a process of understanding behaviour, systems, and evidence.”
 
 ---
 
