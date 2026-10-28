@@ -40,7 +40,7 @@ SIEM platforms (Splunk, Elastic), threat hunting, and cloud security fundamental
 
 LinkedIn: [linkedin.com/in/jcbvasconcelos](https://www.linkedin.com/in/jcbvasconcelos)
 
-## ⚡ Mindset
+##  Mindset
 
 > “Security is not a product - it is a process of understanding behaviour, systems, and evidence.”
 
