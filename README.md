@@ -8,7 +8,7 @@ particularly in financial services.
 
 - **[PYU-OpenNMS-VPE-Control-Architecture](https://github.com/KariocaMarron/PYU-OpenNMS-VPE-Control-Architecture)**
   Distributed OpenNMS Horizon monitoring across multiple sites, using Minions, Apache Kafka, PostgreSQL and Docker.
-  Role: OpenNMS Monitoring Lead.
+  Role: responsible for OpenNMS monitoring and alerting.
 - **[opennms-pyu-monitoring](https://github.com/KariocaMarron/opennms-pyu-monitoring)**
   OpenNMS monitoring configuration and scripts for the same environment.
 - **MARR (Cisco-sponsored university project)**
